@@ -12,15 +12,19 @@ An executive-grade, end-to-end customer churn analytics platform and machine lea
 
 ---
 
-## 📊 Dashboard Previews
+## 📊 Platform Screenshots & Previews
 
-| Executive Overview | Customer Churn Analysis |
+| 1. Portfolio Health & Executive Overview | 2. ML Risk Diagnostics & Threshold Tuning |
 |:---:|:---:|
-| ![Dashboard Overview](images/dashboard_overview.png) | ![Churn Analysis](images/Churn_Analysis.png) |
+| ![Executive Overview](images/01_executive_overview.png) | ![ML Risk Diagnostics](images/02_ml_risk_diagnostics.png) |
 
-| Machine Learning Risk Prediction |
+| 3. Real-Time Churn Predictor & Playbook | 4. High-Value At-Risk Explorer ("Save the Whales") |
+|:---:|:---:|
+| ![Real-Time Churn Simulator](images/03_realtime_churn_simulator.png) | ![High-Value Explorer](images/04_high_value_customer_explorer.png) |
+
+| 5. Retention Campaign Financial Impact & ROI Calculator |
 |:---:|
-| ![ML Risk Prediction](images/Churn_Risk_Prediction_usingML.png) |
+| ![Financial ROI Calculator](images/05_campaign_financial_roi.png) |
 
 > 🎬 **Interactive Video Walkthrough:** Check out [`customer-churn-analytics.mp4`](customer-churn-analytics.mp4) included in this repository to see the real-time Streamlit risk simulator, Power BI dashboards, and threshold tuning in action!
 
@@ -134,10 +138,12 @@ customer-churn-analytics-main/
 ├── powerbi/
 │   └── Dashboard.pbix         # Original Power BI dashboard report
 │
-└── images/                    # Visual assets & dashboard previews
-    ├── dashboard_overview.png
-    ├── Churn_Analysis.png
-    └── Churn_Risk_Prediction_usingML.png
+└── images/                    # Visual assets & platform screenshots
+    ├── 01_executive_overview.png
+    ├── 02_ml_risk_diagnostics.png
+    ├── 03_realtime_churn_simulator.png
+    ├── 04_high_value_customer_explorer.png
+    └── 05_campaign_financial_roi.png
 ```
 
 ---
