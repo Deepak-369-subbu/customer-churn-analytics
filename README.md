@@ -22,6 +22,8 @@ An executive-grade, end-to-end customer churn analytics platform and machine lea
 |:---:|
 | ![ML Risk Prediction](images/Churn_Risk_Prediction_usingML.png) |
 
+> 🎬 **Interactive Video Walkthrough:** Check out [`customer-churn-analytics.mp4`](customer-churn-analytics.mp4) included in this repository to see the real-time Streamlit risk simulator, Power BI dashboards, and threshold tuning in action!
+
 ---
 
 ## ⚡ Methods to Run the Platform

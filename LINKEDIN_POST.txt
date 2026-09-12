@@ -1,0 +1,28 @@
+🏦 Can Predictive AI & Business Intelligence protect + in retail banking deposit capital?
+
+Customer churn is one of the costliest challenges in consumer banking. I developed an executive-grade Retail Banking Customer Churn Intelligence Platform that combines predictive Machine Learning models, interactive Power BI reporting, and a real-time Streamlit decision engine.
+
+📊 Key Portfolio Insights (10,000 Customer Base):
+1️⃣ Geographic Disparity: German clients exhibit a 32.4% churn rate—more than double France and Spain (16.1%)—despite maintaining top-tier average account balances.
+2️⃣ The 2-Product Sweet Spot: Customers with only 1 banking product churn at 27.7%, but holding 2 products slashes churn to just 7.6% (a 72% reduction!). However, clients holding 3+ products churn at over 80%, signaling product clutter or dissatisfaction.
+3️⃣ Age Factor: Churn accelerates rapidly for customers aged 45–60, identifying a vital window for wealth management and retirement retention campaigns.
+
+🧠 Machine Learning & Decision Intelligence:
+• Predictive Engine: Trained a Balanced Random Forest Classifier achieving an ROC-AUC of 0.864.
+• Threshold Tuning: Optimized decision boundary (F1-score of 0.629 at ~0.538 threshold) to balance precision vs. recall for banking risk officers.
+• Feature Importance: Quantified key churn drivers—Age (35.9%), Number of Products (23.9%), Account Balance (10.2%), and Active Membership (6.1%).
+• What-If Simulator: Real-time speed gauge evaluating churn probability based on customer profiles with automated prescriptive retention playbooks.
+• High-Value At-Risk Explorer ('Save the Whales'): Priority targeting tool enabling relationship managers to export actionable outreach lists.
+
+🛠 Tech Stack:
+• Machine Learning: Python, Scikit-Learn (Random Forest, ROC-AUC, Precision-Recall)
+• Data & Analytics: Pandas, NumPy, Plotly
+• Dashboards & BI: Streamlit, Power BI (Star Schema, DAX, KPI cards)
+
+📂 GitHub Repository: https://github.com/Deepak-369-subbu/customer-churn-analytics
+
+Check out the dashboard previews and risk diagnostics below! 👇
+
+💬 To banking and analytics leaders: How does your organization determine the optimal threshold between retention campaign costs and preserved customer lifetime value (LTV)?
+
+#MachineLearning #PowerBI #DataAnalytics #Streamlit #CustomerChurn #FinTech #BankingAnalytics #DataScience #Python #BusinessIntelligence
